@@ -52,7 +52,8 @@ Provide timely, professional IT support to restore functionality while maintaini
 - Improved first-contact resolution rates
 - Reduced recurring issues through documentation and user education
 
-# Mock Ticket ID: HD-1042
+# Mock Ticket
+Ticket ID: HD-1042
 Priority: Medium
 Category: Access / Login Issue
 User Impact: Single User
