@@ -33,7 +33,7 @@ Delivered front-line IT support for multiple organizations, resolving end-user i
 - Incident Management
 - Technical Documentation
 
-
+# STAR Narrative
 ## Situation
 Users at small organizations experienced frequent workstation, printer, and login issues that disrupted daily operations.
 
