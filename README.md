@@ -40,6 +40,10 @@ Delivered front-line IT support for multiple organizations, resolving end-user i
 
 - Reduced repeat incidents through proper resolution and user education
 
-Skills Demonstrated
+# Skills Demonstrated
 
-Help Desk Support · Troubleshooting · Customer Service · Incident Management · Technical Documentation
+- Help Desk Support 
+- Troubleshooting
+- Customer Service
+- Incident Management
+- Technical Documentation
